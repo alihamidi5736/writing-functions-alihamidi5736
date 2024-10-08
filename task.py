@@ -8,4 +8,4 @@ def tempeture_conventor(tempture, unit):
 
         celsius = (tempture - 32) * 5/9:
         return f"{celsius} C"
-        else return "invalid unit"
+        else return "unit is not valid"
